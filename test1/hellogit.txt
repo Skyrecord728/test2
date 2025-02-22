@@ -1,0 +1,7 @@
+1. 全局配置
+2. git init :初始化
+3. git add . :上传缓存区
+4. git commit - m "random" :添加说明
+5. git remote rm origin :切断原来链接
+6. git remote add origin +SSH地址或着http地址 ：与远程仓库建立连接
+7. git push origin master 
